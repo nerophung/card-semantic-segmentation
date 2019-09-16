@@ -1,1 +1,1 @@
-# card-semantic-segmentation
+# label-segmentation-object-detection
